@@ -1,0 +1,12 @@
+torch==2.2.0
+torchvision==0.15.2
+onnxruntime==1.19.2
+segment_anything==1.0
+pytorch-wavelets==1.3.0
+Pillow==10.0.1
+opencv_python==4.8.1.78
+matplotlib==3.8.2
+pycocotools
+PyYAML
+scipy
+tqdm
